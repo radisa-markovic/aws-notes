@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <Link to="/" className="navbar-brand">
-        📝 AWS Notes
+        📝 MILAN TAROT Notes
       </Link>
       <NavLink to="/notes/new" className="btn btn-primary">
         + New Note
